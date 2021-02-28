@@ -1,0 +1,81 @@
+/* SECTIONS */
+
+body {
+    font-family: "Montserrat";
+    background-color: whitesmoke;
+    
+ }
+ .big-heading{
+     font-family: 'Montserrat', sans-serif;
+     font-size: 50px;
+     background-color: #da9ff9;
+ }
+ .colored-section {
+     background-color: #da9ff9;
+     color: white;
+ }
+ .white-section {
+     background-color: white;
+ }
+ /* DOWNLOAD BUTTON */
+ .download-button {
+     margin: 5% 3% %5 0;
+ }
+ /* TITLE IMAGE */
+ .title-image {
+     width: 60%;
+     transform: rotate(25deg);
+     position: absolute;
+ }
+ #features {
+     position: relative;
+ }
+ /* CONTAINER */
+ .container-fluid{
+     padding: 5% 15%;
+ }
+ .container{
+     background-color: white;
+ }
+ /* NAVBAR */
+ .navbar-brand{
+     font-family: "Ubuntu";
+     font-size: 32px;
+     font-weight: bold;
+ }
+ .nav-item{
+     padding: 0 18px;
+ }
+ .nav-link {
+ font-size: 18px;
+ font-family: "Montserrat";
+ }
+ 
+ /* ICON */
+ .icon {
+    color: #ef8172; 
+ }
+
+ .star-yellow{
+     color: rgb(255, 217, 0);
+ }
+
+ .background-blue {
+    background-color: #b088f9;
+    
+ }
+
+ .whatsapp-icon {
+     position: fixed;
+     right: 2%;
+     bottom: 2%;
+ }
+
+ .background-bluelight{
+     background-color: #bedcfa;
+ }
+
+ .background-violet{
+     background-color: #b088f9;
+ }
+
